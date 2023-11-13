@@ -66,8 +66,8 @@ console.log(findSmallestInt([78, 56, 232, 12, 8]));
 
 ## Projects
 
-- [Noemi travel blog](https://github.com/JuliaAme/mq-diploma-last)
-- [CV]()
+- [Noemi travel blog](https://juliaame.github.io/mq-diploma-last/)
+- [CV](https://juliaame.github.io/rsschool-cv/CV)
 
 ## Education
 
